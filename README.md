@@ -30,7 +30,7 @@ The pipeline follows a standard ETL pattern:
 Clone the repository
 
 ```bash
-    git clone https://github.com/SangitaSingha073/ETL_Weather_Data.git
+    git clone https://github.com/SangitaSingha073/Weather-ETL-Airflow-s3.git
 
     pip install -r requirements.txt
 ```
