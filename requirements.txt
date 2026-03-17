@@ -1,0 +1,5 @@
+apache-airflow
+apache-airflow-providers-http
+pandas
+s3fs
+python-dotenv
